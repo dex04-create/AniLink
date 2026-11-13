@@ -77,6 +77,6 @@ All database writes require the session CSRF token. Sessions use HTTP-only, Same
 
 ## Limitations
 
-- The included market-price rows are copied from the original mock UI and are explicitly marked illustrative and unverified. Replace them only with verified data and accurate source/date information.
+- The included market-price rows are copied from the original mock UI and are explicitly marked illustrative and unverified.
 - Password recovery, email delivery, purchase processing, and official price-feed integrations are not implemented. Messaging uses five-second AJAX polling, not WebSockets.
 - Deployments beyond local XAMPP should use HTTPS, a least-privilege database account, regular backups, and server-level upload limits.
