@@ -1,0 +1,131 @@
+AniLink local image sources and attribution
+==========================================
+
+Homepage background
+- assets/images/background/rice-fields-bg.jpg
+  Pexels photo 33549435, by XT7 Core
+  https://www.pexels.com/photo/aerial-view-of-lush-rice-fields-in-mimaropa-philippines-33549435/
+  Pexels license (free use)
+
+Existing product listings
+- assets/images/products/carabao-mango.jpg
+  Jeson Cabilic, Pexels photo 16248751
+  https://www.pexels.com/photo/stack-of-yellow-mango-16248751/
+  Pexels license (free use); photographed in Valenzuela, Philippines.
+
+- assets/images/products/saba-banana.jpg
+  Attahokah, "Ripe plantain.jpg", Wikimedia Commons
+  https://commons.wikimedia.org/wiki/File:Ripe_plantain.jpg
+  CC0
+
+- assets/images/products/fresh-coconut.jpg
+  Ivar Leidus, "Coconuts - single and cracked open.jpg", Wikimedia Commons
+  https://commons.wikimedia.org/wiki/File:Coconuts_-_single_and_cracked_open.jpg
+  CC BY-SA 4.0
+
+- assets/images/products/cassava.jpg
+  Denis kasozi, "Harvested cassava roots 03.jpg", Wikimedia Commons
+  https://commons.wikimedia.org/wiki/File:Harvested_cassava_roots_03.jpg
+  CC BY-SA 4.0
+
+- assets/images/products/fresh-eggplant.jpg
+  PattayaPatrol, "Vivid purple round eggplants piled with fresh green beans and cucumbers at a market stall", Wikimedia Commons
+  https://commons.wikimedia.org/wiki/File:DFC_2101_Vivid_purple_round_eggplants_piled_with_fresh_green_beans_and_cucumbers_at_a_market_stall.jpg
+  CC BY-SA 4.0
+
+- assets/images/products/squash.jpg
+  Alexander van Loon, "Cucurbita pepo Pattypan squash.jpg", Wikimedia Commons
+  https://commons.wikimedia.org/wiki/File:Cucurbita_pepo_Pattypan_squash.jpg
+  CC BY-SA 2.0
+
+- assets/images/products/fresh-tomatoes.jpg
+  Unsplash image photo-1546094096-0df4bcaaa337
+  https://images.unsplash.com/photo-1546094096-0df4bcaaa337?auto=format&fit=crop&w=1200&q=80
+  Unsplash license
+
+- assets/images/products/local-rice.jpg
+  Kambai Akau, "Rice on sale at the Monday Market in Kakuri, Kaduna 02.jpg", Wikimedia Commons
+  https://commons.wikimedia.org/wiki/File:Rice_on_sale_at_the_Monday_Market_in_Kakuri,_Kaduna_02.jpg
+  CC BY-SA 4.0
+
+Additional demonstration products
+- assets/images/products/sweet-potato.jpg
+  Fumikas Sagisavas, "Sweet potatoes (20240221).jpg", Wikimedia Commons
+  https://commons.wikimedia.org/wiki/File:Sweet_potatoes_(20240221).jpg
+  CC0
+
+- assets/images/products/papaya.jpg
+  Ivar Leidus, "Papaya - longitudinal section.jpg", Wikimedia Commons
+  https://commons.wikimedia.org/wiki/File:Papaya_-_longitudinal_section.jpg
+  CC BY-SA 4.0
+
+- assets/images/products/calamansi.jpg
+  Obsidian Soul, "Calamansi (Philippines).jpg", Wikimedia Commons
+  https://commons.wikimedia.org/wiki/File:Calamansi_(Philippines).jpg
+  CC0
+
+- assets/images/products/pineapple.jpg
+  Wilfredor, "Pineapple fruit 2.jpg", Wikimedia Commons
+  https://commons.wikimedia.org/wiki/File:Pineapple_fruit_2.jpg
+  CC0
+
+- assets/images/products/watermelon.jpg
+  ChimaBee, "Cut Watermelons On Display For sale.jpg", Wikimedia Commons
+  https://commons.wikimedia.org/wiki/File:Cut_Watermelons_On_Display_For_sale.jpg
+  CC BY-SA 4.0
+
+- assets/images/products/string-beans.jpg
+  Christopher Franz, "Four Different Varieties of Green Beans (Phaseolus vulgaris).jpg", Wikimedia Commons
+  https://commons.wikimedia.org/wiki/File:Four_Different_Varieties_of_Green_Beans_(Phaseolus_vulgaris).jpg
+  CC BY-SA 4.0
+
+- assets/images/products/bitter-gourd.jpg
+  Fumikas Sagisavas, "Fresh bitter melons.jpg", Wikimedia Commons
+  https://commons.wikimedia.org/wiki/File:Fresh_bitter_melons.jpg
+  CC0
+
+- assets/images/products/cabbage.jpg
+  Uthman salma, "Fresh Cabbage in Basin.jpg", Wikimedia Commons
+  https://commons.wikimedia.org/wiki/File:Fresh_Cabbage_in_Basin.jpg
+  CC0
+
+- assets/images/products/okra.jpg
+  Iwai-Dialax, "Okra Vegetable.jpg", Wikimedia Commons
+  https://commons.wikimedia.org/wiki/File:Okra_Vegetable.jpg
+  CC BY-SA 4.0
+
+- assets/images/products/chili-pepper.jpg
+  Rukkyah, "Fresh red chilli.jpg", Wikimedia Commons
+  https://commons.wikimedia.org/wiki/File:Fresh_red_chilli.jpg
+  CC BY-SA 4.0
+
+- assets/images/products/sweet-corn.jpg
+  Daderot, "Corn on the cob - Massachusetts.jpg", Wikimedia Commons
+  https://commons.wikimedia.org/wiki/File:Corn_on_the_cob_-_Massachusetts.jpg
+  CC0
+
+- assets/images/products/young-coconut.jpg
+  Paracetamol, "Young coconut with special knife.jpg", Wikimedia Commons
+  https://commons.wikimedia.org/wiki/File:Young_coconut_with_special_knife.jpg
+  CC BY-SA 3.0
+
+- assets/images/products/ginger.jpg
+  Rubel Das, "Ginger Root (Zingiber officinale).jpg", Wikimedia Commons
+  https://commons.wikimedia.org/wiki/File:Ginger_Root_(Zingiber_officinale).jpg
+  CC0
+
+- assets/images/products/taro.jpg
+  စာကလေး, "Taro Root, Eddoe or Colocasia Esculenta.jpg", Wikimedia Commons
+  https://commons.wikimedia.org/wiki/File:Taro_Root,_Eddoe_or_Colocasia_Esculenta.jpg
+  CC0
+
+- assets/images/products/dragon-fruit.jpg
+  Indrajit Das, "Dragon Fruit 01.jpg", Wikimedia Commons
+  https://commons.wikimedia.org/wiki/File:Dragon_Fruit_01.jpg
+  CC BY-SA 4.0
+
+Fallback image
+- assets/images/products/fallback.jpg
+  Unsplash image photo-1464226184884-fa280b87c399
+  https://images.unsplash.com/photo-1464226184884-fa280b87c399?auto=format&fit=crop&w=1200&q=80
+  Unsplash license
